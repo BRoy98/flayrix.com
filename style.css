@@ -23,8 +23,8 @@ h1, p{
   padding: 0;
   margin: 1vmin;
 }
-h1 {
-  font-size: 24vmin;
+.main-coming {
+  font-size: 14vmin;
 }
 p {
   font-size: 7vmin;
